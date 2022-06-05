@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Chris Mather
+# Hi there 👋, my name is Chris Mather
 
 ## Introduction
 
