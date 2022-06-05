@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Chris Mather
 
-<!--
-**chrismather410/chrismather410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+I am a highly motivated, self-taught software engineer predominantly learning front-end technologies with an keen interest in becoming a full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ShowHub. A movies and TV Series hub / catalogue.
+- 🌱 I’m currently learning data structures and algorithms.
+
+## Technical Skills
+- JavaScript
+- React
+- TypeScript
+- Version Control
+- Build Processes and Developer Tooling
+
+
