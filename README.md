@@ -8,6 +8,7 @@ I am a highly motivated, self-taught software engineer predominantly learning fr
 - 🌱 I’m currently learning data structures and algorithms.
 
 ## Technical Skills
+- HTML, CSS
 - JavaScript
 - React
 - TypeScript
