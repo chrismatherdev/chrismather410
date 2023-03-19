@@ -1,11 +1,11 @@
-# Hi there 👋, my name is Chris Mather
+# Hello 👋, my name is Chris Mather
 
 ## Introduction
 
 I am a highly motivated, self-taught software engineer predominantly learning front-end technologies with a keen interest in becoming a full-stack developer.
 
 - 🔭 I’m currently working on ShowHub. A movies and TV Series hub / catalogue built with React and TypeScript.
-- 🌱 I’m currently learning data structures and algorithms.
+- 🌱 I’m currently learning Node and backend concepts.
 
 ## Technical Skills
 - HTML, CSS
