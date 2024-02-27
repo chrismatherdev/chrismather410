@@ -8,10 +8,9 @@ I am a highly motivated, self-taught software engineer predominantly learning fr
 - 🌱 I’m currently learning Node and backend concepts.
 
 ## Technical Skills
-- HTML, CSS
 - JavaScript
-- React
-- TypeScript
+- React + TypeScript
+- Node.js
 - Version Control
 - Build Processes and Developer Tooling
 
